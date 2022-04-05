@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @Jacks-HomeAssistant. I am currently embarking on creating a smart home through home assistant, moving away from cloud based devices such as Amazon Alexa. I have no coding experience so please have patience however I am eager to learn new skills.
